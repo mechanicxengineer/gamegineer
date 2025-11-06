@@ -38,7 +38,7 @@
         "Quest system with branching narratives and dynamic outcomes. (in progress)",
         "Environmental puzzles and dungeon mechanics. (in progress)",
         "Visual polish for UI and combat feedback. (in progress)"],
-        "video": "https://drive.google.com/file/d/your-video-id/preview",
+        "video": "https://drive.google.com/file/d/1MvLqsdSJEx3YghdRTIstAIVdXrDd51H3/preview",
         "thumbnail": "images/the_last_emberlight.png",
         "tech": ["Unity", "2D", "Adventure", "Exploration", "Combat"],
         "repo": "https://github.com/mechanicxengineer/2D-Open-World",
@@ -59,7 +59,7 @@
         "Ammo Collection System: World pickups with contextual prompts, stacking logic, and auto-collect zones. Includes visual and audio feedback.",
         "Visual Effects Suite: Muzzle flashes, impact sparks, reload particles, and ambient FX. Designed for performance and style using modular VFX components.",
         "Smart AI Enemies: Behavior-driven AI with patrol, chase, and combat states. Includes line-of-sight detection, cover-seeking, flanking logic, and dynamic reaction to player actions. Supports difficulty scaling and modular behavior trees."],
-        "video": "https://drive.google.com/file/d/your-video-id/preview",
+        "video": "https://drive.google.com/file/d/1tRuiKT877iWEBaatgQi1HAaNpXsdToZ2/preview",
         "thumbnail": "images/monster_hunt.png",
         "tech": ["Unreal Engine", "C++", "Blueprints", "AI"],
         "repo": "https://github.com/mechanicxengineer/Monster-hunt",
@@ -76,7 +76,7 @@
         "Upgrade System: Tiered upgrades for mining speed, worker efficiency, storage capacity, and automation. Includes UI feedback and cost scaling.",
         "Storage & Capacity System: Dynamic resource storage with overflow logic. Players must upgrade capacity to avoid bottlenecks and maximize idle gains.",
         "Currency System with Smart Formatting: Implements a scalable currency system with automatic formatting (e.g., 1,000 → 1K, 1,000,000 → 1M) for clean UI and intuitive progression."],
-        "video": "https://drive.google.com/file/d/your-video-id/preview",
+        "video": "https://drive.google.com/file/d/1cOKSjyD3cKSFQ5yKamrBpq-A4rA0NtcI/preview",
         "thumbnail": "images/minercore_tycoon.png",
         "tech": ["Unity", "Idle Simulation", "Resource Management", "2D"],
         "repo": "https://github.com/mechanicxengineer/Idle-Miner-Game",
@@ -92,7 +92,7 @@
         "Timer & Move Limit System: Each level includes a countdown timer and a fixed number of moves, encouraging strategic play and replayability.",
         "Polished UI Design: Clean, animated interface showing score, remaining moves, timer, and match feedback. Includes sound cues and visual pop for combos.",
         "Juicy Feedback & Effects: Particle bursts, screen shakes, and combo animations enhance the tactile feel of every match."],
-        "video": "https://drive.google.com/file/d/your-video-id/preview",
+        "video": "https://drive.google.com/file/d/1AoEH7cRlEhQqWEunkE1GXYXihFOMC3kd/preview",
         "thumbnail": "images/fruity_match.png",
         "tech": ["Unity", "Idle Simulation", "Resource Management", "2D"],
         "repo": "https://github.com/mechanicxengineer/Fruity-Match",
@@ -110,7 +110,7 @@
         "Collision Detection System: Built on Unity’s 2D physics engine, the system detects and responds to walls, dynamic objects, and other agents. Ensures smooth navigation without overlaps or jitter.",
         "Adaptive Movement Logic: AI agents adjust speed, direction, and decision-making based on environmental context. Includes obstacle prediction and re-routing behaviors.",
         "Modular AI Architecture: Designed with scalability in mind-easily extendable to support patrols, target chasing, or group formations."],
-        "video": "https://drive.google.com/file/d/your-video-id/preview",
+        "video": "https://drive.google.com/file/d/1EDkjg5lQkpeEwpnlIO5onpr1hmbl3WUX/preview",
         "thumbnail": "images/smart_ai_2d.png",
         "tech": ["Unity Engine", "C#", "AI Simulation", "2D Technical"],
         "repo": ""
@@ -125,7 +125,7 @@
         "BTT_Tasks (Behavior Tree Tasks): Custom task nodes for movement, attack execution, cooldown handling, and strafe direction. Modular design allows easy reuse and expansion.",
         "BTD_Decorators (Behavior Tree Decorators): Conditional checks for player proximity, line-of-sight, attack readiness, and strafe eligibility. Used to gate transitions and prevent logic conflicts.",
         "Combat & Strafing Behavior: AI agents detect the player, initiate attacks, and immediately strafe left or right post-attack to simulate evasive combat. Includes cooldown logic, animation triggers, and pathfinding adjustments."],
-        "video": "https://drive.google.com/file/d/your-video-id/preview",
+        "video": "https://drive.google.com/file/d/1k0ZB8X-XyPQEBDD6As3WVGqgf7V3_TQ1/preview",
         "thumbnail": "images/smart_ai_attack_and_straf.png",
         "tech": ["Unreal Engine", "Blueprints", "C++", "AI Simulation", "Blackboard", "Behavior Tree"],
         "repo": ""
@@ -140,7 +140,7 @@
         "BTT_Tasks (Behavior Tree Tasks): Custom task nodes handle movement, waiting, animation triggers, and chase logic. Includes modular task design for easy reuse and expansion.",
         "BTD_Decorators (Behavior Tree Decorators): Conditional checks for visibility, distance, and state transitions. Used to gate behaviors like chasing, returning to patrol, or triggering alerts.",
         "Patrol & Chase System: AI agents follow predefined patrol paths. Upon detecting the player (via line-of-sight or perception), they dynamically switch to chase mode with pathfinding and obstacle avoidance."],
-        "video": "https://drive.google.com/file/d/your-video-id/preview",
+        "video": "https://drive.google.com/file/d/1DNgO1S5quF_TGpokGyMRGS9ETIIRbNkO/preview",
         "thumbnail": "images/smart_ai_patrol_and_chase.png",
         "tech": ["Unreal Engine", "Blueprints", "C++", "AI Simulation", "Blackboard", "Behavior Tree", "Combat"],
         "repo": ""
@@ -155,7 +155,7 @@
         "BTT_Tasks (Behavior Tree Tasks): Includes modular tasks for parrying melee attacks, blocking projectiles, cooldown resets, and animation syncing. Designed for reuse across multiple enemy types.",
         "BTD_Decorators (Behavior Tree Decorators): Conditional checks for timing windows, attack direction, projectile velocity, and stamina thresholds. Used to gate defensive actions and prevent logic conflicts.",
         "Parry & Block Mechanics: AI agents detect incoming attacks and respond with timed parries or directional blocks. Includes animation blending, hit reaction suppression, and counter-attack triggers."],
-        "video": "https://drive.google.com/file/d/your-video-id/preview",
+        "video": "https://drive.google.com/file/d/1qyDRXI_LDC-HDqIlZtxSBMO5JQPPqArK/preview",
         "thumbnail": "images/smart_ai_parry_and_block.png",
         "tech": ["Unreal Engine", "Blueprints", "C++", "AI Simulation", "Blackboard", "Behavior Tree", "Combat"],
         "repo": ""
@@ -172,7 +172,7 @@
         "Melee AI: Closes distance, initiates attacks with timed animations, and reacts to ranged damage with chase or retreat logic.",
         "Ranged AI: Maintains distance, fires projectiles using line-of-sight checks, and strafes to avoid melee threats. Includes reload and ammo tracking systems.",
         "Dynamic Combat Loop: Both AI agents engage autonomously, adapting to each other's behavior. Includes hit detection, damage feedback, and reactive movement based on combat outcomes."],
-        "video": "https://drive.google.com/file/d/your-video-id/preview",
+        "video": "https://drive.google.com/file/d/1rDCzlRiO_Twb-ghOIhpjXuBzWHWbt3aG/preview",
         "thumbnail": "images/smart_ai_vs_ai.png",
         "tech": ["Unreal Engine", "Blueprints", "C++", "AI Simulation", "Blackboard", "Behavior Tree", "Combat"],
         "repo": ""
@@ -190,7 +190,7 @@
               "Dragon-Like Flying Movement: The head of the chain follows a sinusoidal or spline-based path, while the rest of the body flows behind it with delay and curvature - mimicking the graceful, wave-like motion of a traditional Chinese dragon in flight.",
               "Fully Procedural Logic: No skeletal meshes or animations are used. All movement, spacing, and orientation are handled through blueprint logic and mathematical functions, making the system lightweight and highly customizable.",
               "Experimental Use Cases: Ideal for exploring procedural animation, AI path-following, or visual effects prototyping. The system can be extended into enemy formations, boss tentacles, or stylized environmental effects."],
-              "video": "https://drive.google.com/file/d/your-video-id/preview",
+              "video": "https://drive.google.com/file/d/1_9PXH4ZE6Li5-g8ciEOT9gzGOsCMcsfS/preview",
               "thumbnail": "images/procedural_dragon.png",
               "tech": ["Unreal Engine", "Blueprints", "C++", "Experimental", "Procedural Animation", "Technical"],
               "repo": ""
@@ -209,7 +209,7 @@
               "Slot locking and restricted item types.",
               "Sound and visual effects for pickup, drop, and hover.",
               "Blueprint-callable C++ functions for easy customization and extension."],
-              "video": "https://drive.google.com/file/d/your-video-id/preview",
+              "video": "https://drive.google.com/file/d/1n68s-KKStQ0TC-ZEnBMxe-jeUIutKRER/preview",
               "thumbnail": "images/inventory_system.png",
               "tech": ["Unreal Engine", "Blueprints", "C++", "Experimental", "Technical"],
               "repo": ""
@@ -224,7 +224,7 @@
               "Crouch System: Smooth transition into crouch using root motion animations. Includes collision adjustments and movement speed scaling for stealth or traversal scenarios.",
               "Dash & Roll Mechanics: Responsive dash and evasive roll actions triggered by player input. Movement is fully handled via root motion, allowing for cinematic momentum and directional control.",
               "Animation Sync & Blend Logic: All movement states are tightly synced with animation curves and blend spaces, ensuring consistent visual feedback and gameplay responsiveness."],
-              "video": "https://drive.google.com/file/d/your-video-id/preview",
+              "video": "https://drive.google.com/file/d/1FhXJpn6Wqv3jboXnCOff2hVXE3WU1YM_/preview",
               "thumbnail": "images/root_motion.png",
               "tech": ["Unreal Engine", "Blueprints", "Experimental", "Physics", "Movement", "Technical"],
               "repo": ""
@@ -239,7 +239,7 @@
               "Time-Driven Cycle System: A scalable time manager drives the rotation of celestial bodies, ambient light shifts, and skybox transitions. Supports accelerated or real-time playback.",
               "Shadow & Reflection Updates: Dynamic shadows and screen-space reflections adjust seamlessly with the sun/moon position, enhancing realism across terrain, foliage, and architecture.",
               "Captured in Real-Time Engine: All visuals and lighting transitions are rendered live in Unity’s engine-no baked lighting or pre-rendered sequences. Ideal for showcasing HDRP’s power in interactive environments."],
-              "video": "https://drive.google.com/file/d/your-video-id/preview",
+              "video": "https://drive.google.com/file/d/1KsHWARdEbjre7tuSIiEuraITmxO9QBZ1/preview",
               "thumbnail": "images/day_night_cycle.png",
               "tech": ["Unity (HDRP)", "Environmental Simulation", "Experimental", "Physics", "3D Lighting", "Technical"],
               "repo": ""
@@ -264,7 +264,7 @@
               "AI Combat Isn’t Just About Attacking: Designing enemies that could attack, react, and feel fair required a deeper understanding of Behavior Trees, animation syncing, and combat pacing. I learned how to balance aggression with readability.",
               "Interaction Systems Need Flexibility: Even simple interactions-like picking up items or opening doors-needed clean architecture to avoid bugs and ensure scalability. I learned to separate visual prompts, input handling, and world logic.",
               "Failure Is a Design Compass: The project didn’t fully meet my vision, but every broken combo, misaligned animation, or AI glitch taught me how to build smarter, cleaner systems next time. It sharpened my instincts for what makes Souls-like combat feel satisfying."],
-              "video": "https://drive.google.com/file/d/your-video-id/preview",
+              "video": "https://drive.google.com/file/d/13rgSVb2JdGl6rNz6sSEEhCqHEPWWecAT/preview",
               "thumbnail": "images/soulstyle_combo.png",
               "tech": ["Unreal Engine", "Blueprints", "C++", "Action RPG", "Combat Prototype", "Experimental"]
             },
@@ -284,7 +284,7 @@
               "AI behavior must be modular and reactive to feel fair and engaging.",
               "Lock-on systems affect movement, targeting, and camera flow more than expected.",
               "Even failed systems reveal how to design better, cleaner, and more scalable mechanics."],
-              "video": "https://drive.google.com/file/d/your-video-id/preview",
+              "video": "https://drive.google.com/file/d/1efd_H2c4HRaxNd5TUyUSJHiPFu7-oeF4/preview",
               "thumbnail": "images/soulstyle_fighting.png",
               "tech": ["Unreal Engine", "Blueprints", "C++", "Action RPG", "Combat Prototype", "Experimental"]
             },
@@ -305,7 +305,7 @@
               "Traffic Lights and Intersections Are Complex but Rewarding: Implementing traffic signals and multi-lane intersections showed me how timing, priority rules, and vehicle communication can make or break immersion.",
               "Top-Down and Third-Person Views Require Different Design Thinking: Supporting both perspectives taught me how camera framing affects player perception, navigation clarity, and UI placement.",
               "Debugging AI in Motion Is a Skill in Itself: I gained experience using gizmos, visual debuggers, and runtime logs to track AI decisions and fix unexpected behavior in real time."],
-              "video": "https://drive.google.com/file/d/your-video-id/preview",
+              "video": "https://drive.google.com/file/d/1VtESJ-xCWE_v6vm09sp97nQdo4PxKmwK/preview",
               "thumbnail": "images/traffic_system.png",
               "tech": ["Unity (URP)", "Driving Simulator", "AI Systems", "Traffic System", "Technical"]
             }
