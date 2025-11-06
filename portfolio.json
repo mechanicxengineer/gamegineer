@@ -38,7 +38,7 @@
         "Quest system with branching narratives and dynamic outcomes. (in progress)",
         "Environmental puzzles and dungeon mechanics. (in progress)",
         "Visual polish for UI and combat feedback. (in progress)"],
-        "video": "https://drive.google.com/file/d/1MvLqsdSJEx3YghdRTIstAIVdXrDd51H3/preview",
+        "video": "https://drive.google.com/file/d/1MvLqsdSJEx3YghdRTIstAIVdXrDd51H3/preview?autoplay=1",
         "thumbnail": "images/the_last_emberlight.png",
         "tech": ["Unity", "2D", "Adventure", "Exploration", "Combat"],
         "repo": "https://github.com/mechanicxengineer/2D-Open-World",
